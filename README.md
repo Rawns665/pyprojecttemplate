@@ -1,3 +1,3 @@
-# opencv-javascript
+# learn-opencv
 |  (exit)
-\--> *An opencv project with javascipt (using opencv.js)*
+\\--> *An opencv project with javascipt (using opencv.js)*
