@@ -1,4 +1,4 @@
 # [PROJECT-TITLE]
-## PRE-REQS
-## INSTALLATION
-## USAGE
+## Pre-requirements
+## Installation
+## Usage
